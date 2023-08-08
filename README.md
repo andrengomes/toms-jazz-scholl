@@ -9,4 +9,4 @@ Outra seção importante, chamada "courses-selection", apresentava uma série de
 
 Finalmente, o rodapé da página continha informações adicionais sobre a escola, um menu de navegação secundário e um formulário de inscrição na newsletter, permitindo que os interessados se mantenham informados sobre as novidades da escola.
 
-No geral, este projeto me proporcionou a oportunidade de aplicar meus conhecimentos em desenvolvimento web, criando uma página atraente e informativa para a "Tom's Jazz School". Aprendi a criar layouts responsivos, estilizar elementos de maneira coesa e organizar o conteúdo.
+No geral, este projeto me proporcionou a oportunidade de aplicar meus conhecimentos em desenvolvimento web, criando uma página atraente e informativa para a "Tom's Jazz School". Aprendi a criar layouts responsivos, estilizar elementos de maneira coesa e organizar o conteúdo. Tudo isso graças a Onebitcode!
